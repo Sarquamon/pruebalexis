@@ -8,3 +8,6 @@ const multiply = (a, b) => {
 
 console.log(suma(2, 3));
 console.log(multiply(2, 2));
+
+console.log(suma(2, 3));
+console.log(multiply(2, 2));
